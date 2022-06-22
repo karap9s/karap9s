@@ -17,6 +17,8 @@ Currently I'm learning TypeScript <img src="./assets/typescript.png" width=12>
 
 [![VK](https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk)](https://vk.com/karap9s)
 [![Telegram](https://img.shields.io/badge/-Telegram-lightblue?style=for-the-badge&logo=telegram)](https://t.me/WakeUpHypnotize)
+[![Codewars](https://img.shields.io/badge/-codewars-red?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/karap9s)
+
 
 ## 📈 Github stats:
 
