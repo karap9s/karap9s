@@ -15,3 +15,5 @@ Languages and tools:
 
 Contacts:
 
+[![VK](https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk)](vk.com/karap9s)
+[![Telegram](https://img.shields.io/badge/-Telegram-lightblue?style=for-the-badge&logo=telegram)](https://t.me/WakeUpHypnotize)
