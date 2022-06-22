@@ -17,3 +17,7 @@ Currently I'm learning TypeScript <img src="./assets/typescript.png" width=12>
 
 [![VK](https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk)](https://vk.com/karap9s)
 [![Telegram](https://img.shields.io/badge/-Telegram-lightblue?style=for-the-badge&logo=telegram)](https://t.me/WakeUpHypnotize)
+
+## Github stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karap9s&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
