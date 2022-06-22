@@ -1,4 +1,4 @@
-# 🌳🍃Hello, my name is Daniil🍃🌳
+# <p style="text-align: center;"> 🌳🍃Hello, my name is Daniil🍃🌳</p>
 
 ## 😳 About me:
 
@@ -6,12 +6,14 @@ Currently I'm learning TypeScript <img src="./assets/typescript.png" width=12>
 ## 🌿 Stack of technologies:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript)
+![NodeJS](https://img.shields.io/badge/-Node.JS-green?style=for-the-badge&logo=node.js) 
+
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
-![SASS](https://img.shields.io/badge/-sass-pink?style=for-the-badge&logo=sass)
-![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript)
+![SASS](https://img.shields.io/badge/-sass-pink?style=for-the-badge&logo=sass) 
+
 ![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git)
-![NodeJS](https://img.shields.io/badge/-Node.JS-green?style=for-the-badge&logo=node.js)
 ![WebPack](https://img.shields.io/badge/-WebPack-white?style=for-the-badge&logo=webpack)
 
 ## 📝Contacts:
