@@ -3,7 +3,7 @@
 ## 😳 About me:
 
 Currently I'm learning TypeScript <img src="./assets/typescript.png" width=12>
-## 🌿 Languages and tools:
+## 🌿 Stack of technologies:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
