@@ -2,7 +2,7 @@
 
 ## About me:
 
-Currently I'm learning TypeScript 
+Currently I'm learning TypeScript <img src="./assets/typescript.png" width=12>
 
 Languages and tools:
 
