@@ -4,7 +4,7 @@
 
 Currently I'm learning TypeScript <img src="./assets/typescript.png" width=12>
 
-Languages and tools:
+## Languages and tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
@@ -13,7 +13,7 @@ Languages and tools:
 ![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git)
 ![NodeJS](https://img.shields.io/badge/-Node.JS-green?style=for-the-badge&logo=node.js)
 
-Contacts:
+## Contacts:
 
 [![VK](https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk)](vk.com/karap9s)
 [![Telegram](https://img.shields.io/badge/-Telegram-lightblue?style=for-the-badge&logo=telegram)](https://t.me/WakeUpHypnotize)
