@@ -3,7 +3,6 @@
 ## 😳 About me:
 
 Currently I'm learning TypeScript <img src="./assets/typescript.png" width=12>
-
 ## 🌿 Languages and tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
@@ -19,6 +18,10 @@ Currently I'm learning TypeScript <img src="./assets/typescript.png" width=12>
 [![Telegram](https://img.shields.io/badge/-Telegram-lightblue?style=for-the-badge&logo=telegram)](https://t.me/WakeUpHypnotize)
 [![Codewars](https://img.shields.io/badge/-codewars-red?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/karap9s)
 
+
+## 🤖 Codewars:
+
+<img src = "https://www.codewars.com/users/karap9s/badges/large?logo=false">
 
 ## 📈 Github stats:
 
