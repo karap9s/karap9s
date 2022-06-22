@@ -1,4 +1,4 @@
-# <p style="text-align: center;"> 🌳🍃Hello, my name is Daniil🍃🌳</p>
+# <h1 align="center"> 🌳🍃Hello, my name is Daniil🍃🌳</h1>
 
 ## 😳 About me:
 
