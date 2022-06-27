@@ -20,6 +20,7 @@ Currently I'm learning TypeScript <img src="./assets/typescript.png" width=12>
 
 [![VK](https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk)](https://vk.com/karap9s)
 [![Telegram](https://img.shields.io/badge/-Telegram-lightblue?style=for-the-badge&logo=telegram)](https://t.me/WakeUpHypnotize)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%D0%B4%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB-%D1%88%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2-64a73a243/)
 [![Codewars](https://img.shields.io/badge/-codewars-red?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/karap9s)
 
 
