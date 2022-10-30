@@ -2,11 +2,13 @@
 
 ## 😳 About me:
 
-Currently I'm learning TypeScript <img src="./assets/typescript.png" width=12>
+Currently I'm learning React ⚛️
 ## 🌿 Stack of technologies:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux) 
 ![NodeJS](https://img.shields.io/badge/-Node.JS-green?style=for-the-badge&logo=node.js) 
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
