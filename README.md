@@ -7,9 +7,15 @@ Currently I'm improving my knowledge of React ⚛️
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/-Redux_Toolkit-purple?style=for-the-badge&logo=redux)
 ![NodeJS](https://img.shields.io/badge/-Node.JS-green?style=for-the-badge&logo=node.js) 
+
+![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux)
+![Redux_Toolkit](https://img.shields.io/badge/-Redux_Toolkit-purple?style=for-the-badge&logo=redux)
+![Redux-observable](https://img.shields.io/badge/-Redux_Observable-purple?style=for-the-badge&logo=Redux)
+![RxJs](https://img.shields.io/badge/-RxJs-white?style=for-the-badge&logo=rxjs)
+![MobX](https://img.shields.io/badge/-MobX-white?style=for-the-badge&logo=MobX)
+![Axios](https://img.shields.io/badge/-Axios-black?style=for-the-badge&logo=Axios)
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
@@ -17,6 +23,7 @@ Currently I'm improving my knowledge of React ⚛️
 
 ![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git)
 ![WebPack](https://img.shields.io/badge/-WebPack-white?style=for-the-badge&logo=webpack)
+![Figma](https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=Figma)
 
 ## 📝Contacts:
 
